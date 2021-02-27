@@ -1,2 +1,2 @@
 # C Construcao
- Primeiro reposito´rio do curso de Git e GitHube
+ Primeiro repositório do curso de Git e GitHube
